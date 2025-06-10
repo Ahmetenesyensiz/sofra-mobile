@@ -1,0 +1,46 @@
+# node modules
+node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+expo-debug.log*
+
+# Metro cache
+.expo/
+.expo-shared/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA
+.idea/
+
+# environment files
+.env
+.env.*
+
+# build outputs
+android/
+ios/
+web-build/
+dist/
+build/
+
+# misc
+*.log
+*.lock
+*.tmp
+*.swp
+
+# React Native packager files
+*.packager.js
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# others
+coverage/
